@@ -1,0 +1,6 @@
+cn\exrick\sso\service\AddressService.class
+cn\exrick\sso\service\MemberService.class
+cn\exrick\sso\service\RegisterService.class
+cn\exrick\sso\service\OrderService.class
+cn\exrick\sso\service\CartService.class
+cn\exrick\sso\service\LoginService.class
