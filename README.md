@@ -14,10 +14,6 @@
 
 - 单点登录系统：为多个系统之间提供用户登录凭证以及查询登录用户的信息
 
-### 项目架构及功能模块图
-
-![](https://ooo.0o0.ooo/2018/07/22/5b5461926969b.png)
-
 ### 后端所用技术
 ##### 各框架依赖版本皆使用目前最新版本 可进入xmall-parent中 [pom.xml](https://github.com/Exrick/xmall/blob/master/xmall-parent/pom.xml) 查看
 - Spring
