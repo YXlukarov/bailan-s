@@ -1,7 +1,5 @@
-# Bailan-XMall
+# Bailan-CSUMall
 > 摆烂小组大型软件开发实践项目
->
-> 基于Github项目[Xmall](https://github.com/Exrick/xmall)的二次开发
 
 ### 基于SOA架构的分布式购物电商商城
 - 后台管理系统：管理商品、订单、类目、商品规格属性、用户、权限、系统统计、系统日志以及前台内容等功能
